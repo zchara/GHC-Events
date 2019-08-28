@@ -25,6 +25,7 @@ All events are free and located in Orlando, FL unless otherwise noted. Please do
 ### Wednesday, October 2
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
 |:---------------------:|---------------|--------------|-------------|---------|-------------|
+| #GHCBeachBoardwalk <br/> Twitter Kickoff Event | Twitter | Rosen Center Hotel <br/> Executive Ballroom <br/> 9840 International Dr | Wednesday, Oct 2 | 7:00pm - 9:00pm ET | [RSVP Here](https://ghc2019.splashthat.com/?utm_campaign=RE_NL_GBL_ALL_What%27s%20Happening%20%40TwitterU%20%7C%20Excited%20for%20Fall%21%20_080819&utm_medium=email&utm_source=Eloqua&elqTrackId=9D4CC187C105933B27B1C286AAA5F69E&elq=8fe05528b2ec48d6a53664082fa68de1&elqaid=12827&elqat=1&elqCampaignId=6292) |
 
 ### Thursday, October 3
 |Event	                | Company       | Location     | Date        | Time	   | Notes       | 
